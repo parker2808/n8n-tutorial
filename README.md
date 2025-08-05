@@ -2,6 +2,8 @@
 
 ## Setup N8N self-host
 
+### 1. Install Docker Desktop app
+
 1. Download docker desktop: Click [here](https://www.docker.com/get-started/) then select version download mapped with your operation system.
 
 2. Install docker desktop app then signin or signup if you doesn't has account docker.
