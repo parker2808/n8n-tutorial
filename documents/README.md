@@ -14,7 +14,7 @@ Welcome to the N8N Auto Flow documentation. This guide will walk you through set
 
 ### 3. [N8N Setup](./03-n8n-setup/)
 
-- [Clone and Setup N8N](./03-n8n-setup/01-clone-setup-n8n.md)
+- [Clone and Setup N8N](./03-n8n-setup/01-clone-setup-n8n.md) - Complete setup including account creation and activation
 
 ### 4. [Authentication](./04-authentication/)
 

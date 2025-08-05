@@ -64,6 +64,28 @@ If you cannot access the link in step 4:
 2. Run the `down` server command
 3. Re-do from step 3
 
+### 6. Sign Up and Activate N8N Account
+
+1. **Create Your N8N Account**
+
+   Follow the N8N setup wizard to create your account:
+
+   ![Signup N8N](../../assets/signup-n8n.png)
+
+   **Important**: Choose the option `Send me a free license key` to proceed with the next step.
+
+   ![Send activate key](../../assets/send-activate-key.png)
+
+2. **Activate Your License**
+
+   Wait a moment to receive the activation email from N8N, then click `Active License Key` to activate your N8N free trial plan.
+
+   ![Active](../../assets/mail-active-n8n.png)
+
+3. **Complete Setup**
+
+   After all configuration is complete, you have successfully created your N8N self-hosted instance. Navigate to the [Home Page](http://localhost:5678/home/workflows) and you're ready to create workflows!
+
 ## Next Steps
 
 Once N8N is running successfully, proceed to [Get Access Token](../04-authentication/01-get-access-token.md).
