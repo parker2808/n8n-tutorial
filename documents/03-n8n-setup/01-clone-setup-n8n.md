@@ -44,7 +44,7 @@ git clone https://github.com/parker2808/n8n-tutorial.git
 docker-compose up -d
 ```
 
-#### Stop/Remove N8N Server
+#### Stop/Remove N8N Server (Optional - Execute this command when the N8N server is no longer needed)
 
 ```shell
 docker-compose down
@@ -88,4 +88,4 @@ If you cannot access the link in step 4:
 
 ## Next Steps
 
-Once N8N is running successfully, proceed to [Get Access Token](../04-authentication/01-get-access-token.md).
+Once N8N is running successfully, proceed to [Get Access Token](../04-authentication/get-access-token.md).

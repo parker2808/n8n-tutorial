@@ -18,7 +18,7 @@ Welcome to the N8N Auto Flow documentation. This guide will walk you through set
 
 ### 4. [Authentication](./04-authentication/)
 
-- [Get Access Token](./04-authentication/01-get-access-token.md)
+- [Get Access Token](./04-authentication/get-access-token.md)
 
 ### 5. [Workflows](./05-workflows/)
 
@@ -37,7 +37,7 @@ Welcome to the N8N Auto Flow documentation. This guide will walk you through set
 
 3. **Configure Authentication**
 
-   - [Get Access Token](./04-authentication/01-get-access-token.md)
+   - [Get Access Token](./04-authentication/get-access-token.md)
 
 4. **Create Workflows**
    - [Create N8N Workflow](./05-workflows/01-create-n8n-workflow.md)

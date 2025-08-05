@@ -13,7 +13,7 @@ For detailed setup and usage instructions, please refer to our organized documen
 - [🚀 Setup Guide](./documents/01-setup/01-docker-desktop.md)
 - [💻 VSCode Setup](./documents/02-vscode/01-install-vscode.md)
 - [⚙️ N8N Installation](./documents/03-n8n-setup/01-clone-setup-n8n.md)
-- [🔐 Authentication](./documents/04-authentication/01-get-access-token.md)
+- [🔐 Authentication](./documents/04-authentication/get-access-token.md)
 - [🔄 Workflows](./documents/05-workflows/01-create-n8n-workflow.md)
 
 ## 🚀 Quick Start
@@ -21,7 +21,7 @@ For detailed setup and usage instructions, please refer to our organized documen
 1. **Install Docker Desktop** - [Guide](./documents/01-setup/01-docker-desktop.md)
 2. **Install VSCode** - [Guide](./documents/02-vscode/01-install-vscode.md)
 3. **Setup N8N** - [Guide](./documents/03-n8n-setup/01-clone-setup-n8n.md) (includes account creation & activation)
-4. **Configure Authentication** - [Guide](./documents/04-authentication/01-get-access-token.md)
+4. **Configure Authentication** - [Guide](./documents/04-authentication/get-access-token.md)
 5. **Create Workflows** - [Guide](./documents/05-workflows/01-create-n8n-workflow.md)
 
 ## 📁 Project Structure

@@ -20,7 +20,7 @@ This section is currently under development. The following topics will be covere
 Before creating workflows, ensure you have:
 
 - [N8N running successfully](../03-n8n-setup/01-clone-setup-n8n.md)
-- [Access tokens configured](../04-authentication/01-get-access-token.md)
+- [Access tokens configured](../04-authentication/get-access-token.md)
 
 ## Next Steps
 
